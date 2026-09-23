@@ -62,10 +62,6 @@ Simple static routes, each returning a fixed plain-text string via `res.send()`.
 |--------|---------------|-----------------------------------------------|
 | GET    | `/user/:name` | Reads `:name` from the URL via `req.params.name` |
 
-**Example:**
-```
-/Users/rimamaji/Desktop/Screenshot 2026-09-04 at 10.59.04 PM.png
-```
 
 ### Task 3 — Multiple Route Parameters
 
@@ -149,3 +145,14 @@ curl "http://localhost:3000/search?name=john&role=developer"
 
 - **Node.js**
 - **Express.js** (v4)
+
+
+
+Output Screenshot
+<img width="347" height="199" alt="Screenshot 2026-09-23 at 11 16 29 AM" src="https://github.com/user-attachments/assets/b1390608-31db-407a-98f4-f33de200cc24" />
+<img width="347" height="199" alt="Screenshot 2026-09-23 at 11 17 17 AM" src="https://github.com/user-attachments/assets/870a8a90-e5be-4e81-9f41-9776d4908fbf" />
+<img width="347" height="199" alt="Screenshot 2026-09-23 at 11 17 26 AM" src="https://github.com/user-attachments/assets/75db5629-7c1c-44f7-835e-f0d8bcffddcb" />
+<img width="480" height="134" alt="Screenshot 2026-09-23 at 11 17 48 AM" src="https://github.com/user-attachments/assets/8b373f84-5abf-42f0-bdfe-827bff844080" />
+
+
+
