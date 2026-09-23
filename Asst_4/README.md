@@ -82,3 +82,5 @@ The screenshot should show:
 * File System (`fs`) module
 
 
+Output Screenshot
+<img width="596" height="222" alt="Screenshot 2026-09-23 at 11 02 38 AM" src="https://github.com/user-attachments/assets/eeb60a57-50eb-4cca-bb1d-61a41c59196e" />
